@@ -16,11 +16,22 @@ modify and scale without needing major changes to the core design.
 
 ### Documentation
 
-- [Brief & Specifications](../documentation/Brief-and-Specifications.pdf)
-- [Communication](../documentation/Communication.pdf)
-- [Data Encoding](../documentation/Data-Encoding.pdf)
-- [Hardware Design](../documentation/Hardware-Design.pdf)
-- [Power](../documentation/Power.pdf)
-- [Software Design](../documentation/Software-Design.pdf)
-- [Tests & Risk Management](../documentation/Tests-and-Risk-Management.pdf)
+
+- <a href="https://raw.githubusercontent.com/CyWear/.github/main/documentation/Brief-and-Specifications.pdf"
+    target="_blank"> Brief & Specifications</a>
+
+- <a href="https://raw.githubusercontent.com/CyWear/.github/main/documentation/Communication.pdf"
+    target="_blank"> ~~Communication~~</a>
+
+- <a href="https://raw.githubusercontent.com/CyWear/.github/main/documentation/Data-Encoding.pdf"
+    target="_blank"> ~~Data Encoding~~</a>
+
+- <a href="https://raw.githubusercontent.com/CyWear/.github/main/documentation/Hardware-Design.pdf"
+    target="_blank"> ~~Hardware Design~~</a>
+
+- <a href="https://raw.githubusercontent.com/CyWear/.github/main/documentation/Power.pdf"
+    target="_blank"> ~~Power~~</a>
+
+- <a href="https://raw.githubusercontent.com/CyWear/.github/main/documentation/Tests-and-Risk-Management.pdf"
+    target="_blank"> ~~Tests & Risk Management~~</a>
 
