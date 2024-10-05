@@ -16,11 +16,11 @@ modify and scale without needing major changes to the core design.
 
 ### Documentation
 
--- [Brief & Specifications](../documentation/Brief\ &\ Specifications.pdf)
--- [Communication](../documentation/Communication.pdf)
--- [Data Encoding](../documentation/Data\ Encoding.pdf)
--- [Hardware Design](../documentation/Hardware\ Design.pdf)
--- [Power](../documentation/Power.pdf)
--- [Software Design](../documentation/Software\ Design.pdf)
--- [Tests & Risk Management](../documentation/Tests\ &\ Risk\ Management.pdf)
+- [Brief & Specifications](../documentation/Brief-and-Specifications.pdf)
+- [Communication](../documentation/Communication.pdf)
+- [Data Encoding](../documentation/Data-Encoding.pdf)
+- [Hardware Design](../documentation/Hardware-Design.pdf)
+- [Power](../documentation/Power.pdf)
+- [Software Design](../documentation/Software-Design.pdf)
+- [Tests & Risk Management](../documentation/Tests-and-Risk-Management.pdf)
 
